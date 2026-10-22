@@ -1,6 +1,6 @@
 # Skint
 
-Skint is a household money tracker that replaces the `Expenditure.xlsx` workbook with a browser app. It runs in Docker and stores its data in a SQLite file on a Docker volume on your own machine.
+Skint is a household money tracker that replaces arcane spreadsheers with a browser app. It runs in Docker and stores its data in a SQLite file on a Docker volume on your own machine.
 
 Website: https://skint.site
 
