@@ -6,11 +6,7 @@ Website: https://skint.site
 
 ## Download
 
-Download the latest release from the [Releases page](https://github.com/murraycollier/skint/releases/latest):
-
-- `skint.zip`: the app source, Dockerfile and requirements
-- `docker-compose.yml`: publishes Skint on port 8080
-- `env.example`: the settings file, to copy to `.env`
+Download `skint.zip` from the [latest release](https://github.com/murraycollier/skint/releases/latest). It contains everything you need: the app source, the Dockerfile, `docker-compose.yml` and `.env.example`.
 
 Then follow the [setup guide](https://skint.site/get-started/) to install Docker and run the app.
 
